@@ -16,4 +16,4 @@ public class Count : MonoBehaviour
         int s = int.Parse(Text_Count.text);
         Text_Count.text = (s + 1).ToString();
     }
-}
+} 
