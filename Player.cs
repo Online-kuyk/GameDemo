@@ -43,7 +43,7 @@ public class Player : MonoBehaviour
             if (Input.GetKeyUp(KeyCode.Q))
             {
                 m_Transform.Rotate(Vector3.up, -90);
-            }
+            } 
             if (Input.GetKeyUp(KeyCode.E))
             {
                 m_Transform.Rotate(Vector3.up, 90);
