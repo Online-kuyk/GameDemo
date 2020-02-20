@@ -7,5 +7,5 @@ public class GamePlay : MonoBehaviour
     public void GoNextScene(string Name)
     {
         SceneManager.LoadScene(Name);
-    }
+    } 
 }
