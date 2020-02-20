@@ -12,5 +12,5 @@ public class Trigger : MonoBehaviour
 		{
 			SceneManager.LoadScene("gameover");
 		}
-	}
+	} 
 }
