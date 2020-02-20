@@ -28,5 +28,5 @@ public class Author : MonoBehaviour
         Btn_Text.GetComponent<Text>().enabled = true;
         MAP_Image.GetComponent<Image>().enabled = true;
         MAP_Text.GetComponent<Text>().enabled = true;
-    }
+   }
 }
