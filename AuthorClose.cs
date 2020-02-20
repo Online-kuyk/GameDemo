@@ -21,7 +21,7 @@ public class AuthorClose : MonoBehaviour
         MAP_Text = GameObject.Find("MAPText");
     }
 
-    // Update is called once per frame
+ 
     public void AuthorTT()
     {
         Au_Image.GetComponent<Image>().enabled =false;
