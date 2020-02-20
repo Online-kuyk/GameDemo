@@ -5,5 +5,5 @@ public class Edit : MonoBehaviour
     {
         Application.Quit();
     }
-
+ 
 }
