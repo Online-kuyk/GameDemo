@@ -18,7 +18,7 @@ public class IntroduceClose : MonoBehaviour
         A_Text = GameObject.Find("A-Text");
         B_Text = GameObject.Find("B-Text");
         Btn_Close = GameObject.Find("BtnClose");
-        Btn_Text = GameObject.Find("BtnText");
+        Btn_Text = GameObject.Find("BtnText"); 
     }
     public void IntroduceClo()
     {
