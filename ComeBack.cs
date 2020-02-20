@@ -8,4 +8,4 @@ public class ComeBack : MonoBehaviour
     {
         SceneManager.LoadScene(Name);
     }
-}
+} 
