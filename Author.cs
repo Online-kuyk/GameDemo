@@ -21,7 +21,7 @@ public class Author : MonoBehaviour
         MAP_Text = GameObject.Find("MAPText");
     }
     public void AuthorTH()
-    {
+    { 
         Au_Image.GetComponent<Image>().enabled = true;
         Au_Text.GetComponent<Text>().enabled = true;
         Btn.GetComponent<Image>().enabled = true;
