@@ -29,4 +29,4 @@ public class IntroduceClose : MonoBehaviour
         Btn_Close.GetComponent<Image>().enabled = false;
         Btn_Text.GetComponent<Text>().enabled = false;
     }
-}
+} 
