@@ -20,7 +20,7 @@ public class GameIntroduce : MonoBehaviour
         Btn_Close = GameObject.Find("BtnClose");
         Btn_Text = GameObject.Find("BtnText");
     }
-    public void Introduce()
+    public void Introduce() 
     {
         A_Img.GetComponent<Image>().enabled = true;
         B_Img.GetComponent<Image>().enabled = true;
